@@ -3,7 +3,7 @@
 ## Notes: Changes your damage font to something you might actually like.
 ## Author: Fafnyir
 ## Version: 4.0
-## IconTexture: Interface\AddOns\NicerDamage\AddonLogo.tga
+## IconTexture: Interface\AddOns\NicerDamage\logo\AddonLogo.tga
 
 
 NicerDamage.lua
