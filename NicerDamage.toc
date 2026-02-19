@@ -1,0 +1,10 @@
+## Interface: 120000
+
+## Title: |cFFFFFFFFNicer Damage|r
+## Notes: Changes your damage font to something you might actually like.
+## Author: Fafnyir
+## Version: 4.0
+## IconTexture: Interface\AddOns\NicerDamage\logo\AddonLogo.tga
+## X-Wago-ID: mKOv3g6x
+
+NicerDamage.lua
