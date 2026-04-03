@@ -6,7 +6,7 @@
 ## Version: 1.0
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## IconTexture: Interface\AddOns\NicerDamage\logo\AddonLogo.tga
-## X-Wago-ID: mKOv3g6x
+## X-Wago-ID: 
 
 
 NicerDamage.lua
