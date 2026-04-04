@@ -3,7 +3,7 @@
 ## Title: |cFF6600CCNicer Damage|r
 ## Notes: Changes your damage font to something you might actually like.
 ## Author: Fafnyir
-## Version: 1.0
+## Version: v1.0.1
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## IconTexture: Interface\AddOns\NicerDamage\logo\AddonLogo.tga
 ## X-Wago-ID: rNkyplKa
