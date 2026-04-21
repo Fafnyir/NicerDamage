@@ -1,5 +1,4 @@
-## Interface: 120000, 120001
-
+## Interface: 120005, 120001, 120000
 ## Title: |cFF6600CCNicer Damage|r
 ## Notes: Changes your damage font to something you might actually like.
 ## Author: Fafnyir
@@ -7,7 +6,7 @@
 ## Category-enUS: |cFF6600CCFafnyirs|r |cFFFFFFFFHoard|r
 ## IconTexture: Interface\AddOns\NicerDamage\logo\AddonLogo.tga
 ## X-Wago-ID: rNkyplKa
-
+## X-Curse-Project-ID: 1442305
 
 NicerDamage.lua
 
